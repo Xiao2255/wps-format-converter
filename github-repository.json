@@ -1,0 +1,18 @@
+{
+  "name": "wps-format-converter",
+  "description": "WPS格式转换工具「轻转」：Word转PDF、PDF转可编辑Word、JPG/PNG/WebP等图片批量互转。Windows本地处理，保留原文件。",
+  "private": false,
+  "topics": [
+    "wps",
+    "wps-office",
+    "format-converter",
+    "file-converter",
+    "pdf-to-word",
+    "word-to-pdf",
+    "pdf2docx",
+    "image-converter",
+    "windows",
+    "python",
+    "tkinter"
+  ]
+}

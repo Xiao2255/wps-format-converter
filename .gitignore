@@ -1,0 +1,13 @@
+.vendor/
+__pycache__/
+转换结果/
+tmp/
+.venv/
+venv/
+*.py[cod]
+.env
+.env.*
+!.env.example
+build/
+dist/
+*.log
